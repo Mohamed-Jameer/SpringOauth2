@@ -69,6 +69,8 @@ spring:
             authorization-uri: https://accounts.google.com/o/oauth2/v2/auth
             token-uri: https://www.googleapis.com/oauth2/v4/token
             user-info-uri: https://www.googleapis.com/oauth2/v3/userinfo
+
+            
 ### Step 4: Configure Security
 Create a SecurityConfig class to customize security settings:
 
