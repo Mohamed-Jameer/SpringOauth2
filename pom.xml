@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.Oauth2</groupId>
-	<artifactId>SpringOauth2</artifactId>
+	<artifactId>SpringBootOauth2</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>SpringOauth2</name>
 	<description>Demo project for Spring Boot</description>
